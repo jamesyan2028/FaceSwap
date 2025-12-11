@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.idea/
+ffhq-dataset512/
+checkpoints/
+.env
+logs/
+wandb/
+ff-celeba-hq-dataset512/
+evaluation_imgs/
